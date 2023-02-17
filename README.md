@@ -1,7 +1,6 @@
 # Olá! Me chamo Bruno Adller 🖐️
 
 - 🔭 Atualmente estou trabalhando como bolsista em um projeto chamado PeopleGrid para Universidade Federal de Pelotas (UFPel)
-- 📫 Como entrar em contato comigo: adller676@gmail.com
 
 ## Linguagens, Bibiotecas e Frameworks que já utilizei e estou utilizando
 <div style="display: inline_block"><br>
