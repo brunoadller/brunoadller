@@ -1,8 +1,8 @@
 # Olá! Me chamo Bruno Adller 🖐️
 
-- 🔭 Atualmente estou trabalhando como bolsista em um projeto chamado PeopleGrid para Universidade Federal de Pelotas (UFPel)
+- 🔭 Apaixonado por programação e estudando todo dia para conquistar uma oportunidade como desenvolvedor. Já estudei outras linguagens e frameworks, mas sou apaixonado pelo desenvolvimento front-end.
 
-## Linguagens, Bibiotecas e Frameworks que já utilizei e estou utilizando
+## Linguagens, Bibiotecas e Frameworks que já utilizei 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height = "40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height = "40"/>
@@ -16,15 +16,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
  width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"
- width="40" />             
+ width="40" />  
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </div>
   
 
-## Estou aprendendo
+## No momento estou buscando me aprofundar profissionalmente em desenvolvimento com:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height = "50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height = "50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height = "50"/>          
            
 </div>
 
